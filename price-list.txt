@@ -1,3 +1,5 @@
  Product A: $100
- Product B: $180
+ vip-pricing
+ Product B: $150
+ main
  Product C: $300
