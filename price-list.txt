@@ -1,3 +1,9 @@
  Product A: $100
- Product B: $150
+ clearance
+ Product B: $120
+
+
+
+
  Product C: $300
+ main
