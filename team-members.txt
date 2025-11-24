@@ -1,2 +1,9 @@
- Team Leader: John Smith
+
+  Team Leader: John Smith
+
+ Designer: Sarah Lee
+ Designer: Mike Chen
+
+
+
  Project Status: Active
